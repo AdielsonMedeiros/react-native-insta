@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "insta",
+    "slug": "insta",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
